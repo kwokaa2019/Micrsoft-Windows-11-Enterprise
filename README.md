@@ -14,7 +14,7 @@ https://software-download.microsoft.com/download/sg/22000.194.210913-1444.co_rel
 
 我們需要下載版本檔案放入對應資料夾</p>
 <blockquote><p>Windows 10 LTSC Sku Files</p>
-<p>下載 : <a target="_blank" rel="nofollow" href="https://www.gdaily.org/goto/https://gitlab.com/x8602222/windows-10-ltsc-sku-files/-/blob/main/skus.zip">Gitlab </a>、<a target="_blank" rel="nofollow" href="https://www.gdaily.org/goto/https://mega.nz/file/xZkATCZT#nELU8sW4SwDgkn9qm0ZP-m5CS7jsdDXpylARDM3rRMM">MEGA</a></p></blockquote>
+<p>下載 : <a target="_blank" rel="nofollow" href="https://gitlab.com/x8602222/windows-10-ltsc-sku-files/-/blob/main/skus.zip">Gitlab </a>、<a target="_blank" rel="nofollow" href="https://mega.nz/file/xZkATCZT#nELU8sW4SwDgkn9qm0ZP-m5CS7jsdDXpylARDM3rRMM">MEGA</a></p></blockquote>
 <p>放置路徑 <code>C:\Windows\System32\spp\tokens\skus</
 
 
