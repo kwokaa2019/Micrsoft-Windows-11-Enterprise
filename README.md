@@ -8,6 +8,8 @@ Windows 11 LTSC 企業評估版iso「光碟映像檔」下載
 
 https://software-download.microsoft.com/download/sg/22000.194.210913-1444.co_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_zh-tw.iso
 
+<p><p>
+
 
 安裝好系統後，你可以在開始選單旁邊的搜尋框中，輸入“cmd”，在搜尋結果出來之後對著命令提示符程式，單擊滑鼠右鍵，選擇“以管理員身份執行”，之後輸入檢查指令 systeminfo 可以發現當前是評估版本
 <p><img loading="lazy" class="alignnone size-full wp-image-28487" src="https://i.ibb.co/1Kvpc2Q/Virtual-Box-10-19-10-2021-16-22-05.png" alt="" width="800" height="600" 
@@ -34,6 +36,7 @@ cscript.exe %windir%<span style="color: #d2cd86;">\</span>system32<span style="c
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>切換後先重啟系統，讓系統重新辨識版本，否則systeminfo仍是評估版</p>
-<p>重啟後執行cmd的<code>systeminfo</code>已經可以確認切換版本</p>
-<p><img loading="lazy" class="alignnone size-full wp-image-28488" src="https://www.gdaily.org/wp-content/uploads/2021/10/04.png" alt="" width="800" height="600" /></p>
-<p>&nbsp;</p>
+<p>重啟系統後，當然這邊還是未授權的狀態，接下來看大家是自己有序號還是透過數位授權工具來啟動都可以啦，請依照自己的方式啟動系統</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-28489" src="https://i.ibb.co/frFmtgG/Virtual-Box-11-19-10-2021-18-36-14.png" alt="" width="800" height="600" /></p>
+
+
