@@ -32,7 +32,7 @@ cscript.exe %windir%<span style="color: #d2cd86;">\</span>system32<span style="c
 cscript.exe %windir%<span style="color: #d2cd86;">\</span>system32<span style="color: #d2cd86;">\</span>slmgr.vbs <span style="color: #d2cd86;">/</span>cpky <span style="color: #d2cd86;">&gt;</span><span style="color: #e66170; font-weight: bold;">nul</span> <span style="color: #00a800;">2</span><span style="color: #d2cd86;">&gt;</span><span style="color: #d2cd86;">&amp;</span><span style="color: #00a800;">1</span>
 cscript.exe %windir%<span style="color: #d2cd86;">\</span>system32<span style="color: #d2cd86;">\</span>slmgr.vbs <span style="color: #d2cd86;">/</span>ipk 93MGM-NTFKD-6BK63-R6FYR-6Q9PB
 </pre>
-<p><img loading="lazy" class="alignnone size-full wp-image-28487" src="https://i.ibb.co/wW1FXBy/Virtual-Box-10-19-10-2021-16-45-51.png" alt="" width="800" height="600" /></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-28487" src="https://i.ibb.co/HKMrKNk/Virtual-Box-X1010-19-10-2021-19-00-21.png" alt="" width="800" height="600" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>切換後先重啟系統，讓系統重新辨識版本，否則systeminfo仍是評估版</p>
