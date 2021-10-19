@@ -12,6 +12,7 @@ https://software-download.microsoft.com/download/sg/22000.194.210913-1444.co_rel
 
 
 安裝好系統後，你可以在開始選單旁邊的搜尋框中，輸入“cmd”，在搜尋結果出來之後對著命令提示符程式，單擊滑鼠右鍵，選擇“以管理員身份執行”，之後輸入檢查指令 systeminfo 可以發現當前是評估版本
+<p><img loading="lazy" class="alignnone size-full wp-image-28487" src="https://i.ibb.co/gF5sW7L/Virtual-Box-X1010-19-10-2021-18-54-57.png" alt="" width="800" height="600" 
 <p><img loading="lazy" class="alignnone size-full wp-image-28487" src="https://i.ibb.co/1Kvpc2Q/Virtual-Box-10-19-10-2021-16-22-05.png" alt="" width="800" height="600" 
 
         
