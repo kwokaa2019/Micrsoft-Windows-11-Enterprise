@@ -28,9 +28,9 @@ https://software-download.microsoft.com/download/sg/22000.194.210913-1444.co_rel
 cscript.exe %windir%<span style="color: #d2cd86;">\</span>system32<span style="color: #d2cd86;">\</span>slmgr.vbs <span style="color: #d2cd86;">/</span>upk <span style="color: #d2cd86;">&gt;</span><span style="color: #e66170; font-weight: bold;">nul</span> <span style="color: #00a800;">2</span><span style="color: #d2cd86;">&gt;</span><span style="color: #d2cd86;">&amp;</span><span style="color: #00a800;">1</span>
 cscript.exe %windir%<span style="color: #d2cd86;">\</span>system32<span style="color: #d2cd86;">\</span>slmgr.vbs <span style="color: #d2cd86;">/</span>ckms <span style="color: #d2cd86;">&gt;</span><span style="color: #e66170; font-weight: bold;">nul</span> <span style="color: #00a800;">2</span><span style="color: #d2cd86;">&gt;</span><span style="color: #d2cd86;">&amp;</span><span style="color: #00a800;">1</span>
 cscript.exe %windir%<span style="color: #d2cd86;">\</span>system32<span style="color: #d2cd86;">\</span>slmgr.vbs <span style="color: #d2cd86;">/</span>cpky <span style="color: #d2cd86;">&gt;</span><span style="color: #e66170; font-weight: bold;">nul</span> <span style="color: #00a800;">2</span><span style="color: #d2cd86;">&gt;</span><span style="color: #d2cd86;">&amp;</span><span style="color: #00a800;">1</span>
-cscript.exe %windir%<span style="color: #d2cd86;">\</span>system32<span style="color: #d2cd86;">\</span>slmgr.vbs <span style="color: #d2cd86;">/</span>ipk 93MGM-NTFKD-6BK63-R6FYR-6Q9PB
+cscript.exe %windir%<span style="color: #d2cd86;">\</span>system32<span style="color: #d2cd86;">\</span>slmgr.vbs <span style="color: #d2cd86;">/</span>ipk M7XTQ<span style="color: #d2cd86;">-</span>FN8P6<span style="color: #d2cd86;">-</span>TTKYV<span style="color: #d2cd86;">-</span>9D4CC<span style="color: #d2cd86;">-</span>J462D
 </pre>
-<p><img loading="lazy" class="alignnone size-full wp-image-28487" src="https://www.gdaily.org/wp-content/uploads/2021/10/02.png" alt="" width="800" height="600" /></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-28487" src="https://i.ibb.co/wW1FXBy/Virtual-Box-10-19-10-2021-16-45-51.png" alt="" width="800" height="600" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>切換後先重啟系統，讓系統重新辨識版本，否則systeminfo仍是評估版</p>
