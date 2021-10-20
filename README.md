@@ -37,7 +37,7 @@ cscript.exe %windir%<span style="color: #d2cd86;">\</span>system32<span style="c
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>切換後先重啟系統，讓系統重新辨識版本，否則systeminfo仍是評估版</p>
-<p>重啟系統後，當然這邊還是未授權的狀態，接下來大家請依自行用自己的方式透過數位授權方式來啟用Windows 11系統</p>
+<p>重啟系統後，當然這邊還是未授權的狀態，接下來大家請自行GOOGLE 搜尋結果 (0.51 秒) 方式透過數位授權方式來啟用Windows 11系統</p>
 <p><img loading="lazy" class="alignnone size-full wp-image-28489" src="https://i.ibb.co/frFmtgG/Virtual-Box-11-19-10-2021-18-36-14.png" alt="" width="800" height="600" /></p>
 
 
