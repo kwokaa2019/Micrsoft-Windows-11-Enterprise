@@ -1,7 +1,9 @@
 Micrsoft Windows 11 Enterprise  90 天評估版微軟官方載網站
+
 https://www.microsoft.com/zh-tw/evalcenter/evaluate-windows-11-enterprise
 
 Windows 11 LTSC 企業評估版iso「光碟映像檔」下載
+
 https://software-download.microsoft.com/download/sg/22000.194.210913-1444.co_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_zh-tw.iso
 
 
